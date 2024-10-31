@@ -7,14 +7,9 @@ These were coded using Google Colab Environment
 The datasets used in this project are located in the datasets directory.
 
 # Getting Started
-
-Clone the Repository:
-<br> git clone https://github.com/your-username/your-repo-name.git
-<br>
-<br>
 ## Set Up Environment:
 <b> Google Colab:</b> <br>
-Upload the .ipynb notebooks to a new Colab notebook.
+Upload the .ipynb notebooks to a new Colab notebook. Upload the dataset files to the drive to connect them.
 
 ## NoteBooks:
 <b>Sedondary_Structure_Prediction_using_3_Models.ipynb</b>
