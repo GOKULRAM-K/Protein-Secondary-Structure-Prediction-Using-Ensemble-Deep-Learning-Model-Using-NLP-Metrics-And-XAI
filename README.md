@@ -1,8 +1,5 @@
 # Protein-Secondary-Structure-Prediction
-# Contributors:
-1) Vignesh U - vignesh.u@vit.ac.in
-2) Gokul Ram K - gokulram.k2023@vitstudent.ac.in
-3) Parvathi - parvathi.r@vit.ac.in
+
 ### Overview
 This repository contains the code and data for a research project focused on predicting protein secondary structure using ensemble deep learning techniques. The project leverages NLP metrics and explainable AI to improve model performance and interpretability.
 
@@ -37,3 +34,8 @@ Other Notebooks includes <br>
 <b>  Model3_XAI_ts115.ipynb  </b> <br>
 
 - Holds the XAI part explaining the model's predictions for the respective datasets!!
+
+## Contributors:
+1) Vignesh U - vignesh.u@vit.ac.in
+2) Gokul Ram K - gokulram.k2023@vitstudent.ac.in
+3) Parvathi - parvathi.r@vit.ac.in
