@@ -37,5 +37,5 @@ Other Notebooks includes <br>
 
 ## Contributors:
 1) Vignesh U 
-2) Parvathi 
+2) Parvathi R
 3) Gokul Ram K 
