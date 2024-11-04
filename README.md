@@ -36,6 +36,6 @@ Other Notebooks includes <br>
 - Holds the XAI part explaining the model's predictions for the respective datasets!!
 
 ## Contributors:
-1) Vignesh U - vignesh.u@vit.ac.in
-2) Gokul Ram K - gokulram.k2023@vitstudent.ac.in
-3) Parvathi - parvathi.r@vit.ac.in
+1) Vignesh U 
+2) Parvathi 
+3) Gokul Ram K 
