@@ -36,6 +36,6 @@ Other Notebooks includes <br>
 - Holds the XAI part explaining the model's predictions for the respective datasets!!
 
 ## Contributors:
-1) Vignesh U 
-2) Parvathi R
-3) Gokul Ram K 
+--> Vignesh U - vignesh.u@vit.ac.in [Writing – review & editing, Writing – original draft, Supervision, Project administration, Methodology, Investigation, Funding acquisition, Formal analysis, Data curation, Conceptualization.]
+--> Parvathi R - parvathi.r@vit.ac.in [Writing – review & editing, Writing – original draft, Supervision, Software, Resources, Methodology, Formal analysis.]
+--> Gokul Ram K - gokulram.k2023@vitstudent.ac.in [Writing – review & editing, Writing – original draft, Visualization, Validation, Methodology, Formal analysis, Data curation, Conceptualization.]
